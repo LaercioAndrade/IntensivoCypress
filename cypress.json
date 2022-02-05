@@ -1,0 +1,16 @@
+{
+    "baseUrl" : "http://demo.automationtesting.in/Register.html",
+    
+  "reporter": "mochawesome",
+  "reporterOptions": {
+     "reportFilename": "Well teste",
+     "quiet": true,
+     "overwrite": true,
+     "reportTitle": "Intensivo Cypress",
+     "showPassed": true,
+     "reportDir" : "cypress/Reporte",
+     "timestamp" : "ddmmyyyy_HHMMss",
+     "charts" : true
+     
+  }
+}
